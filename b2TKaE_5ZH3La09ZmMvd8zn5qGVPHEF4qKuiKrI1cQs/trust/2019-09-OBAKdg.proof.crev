@@ -1,0 +1,17 @@
+-----BEGIN CREV TRUST -----
+version: -1
+date: "2019-09-01T12:19:59.568686216+02:00"
+from:
+  id-type: crev
+  id: b2TKaE_5ZH3La09ZmMvd8zn5qGVPHEF4qKuiKrI1cQs
+  url: "https://github.com/afck/crev-proofs"
+ids:
+  - id-type: crev
+    id: aD4K0g6AcSKUDp3VPF7u4hM94zEkqjWeRQwmabLBcV0
+    url: "https://github.com/Mark-Simulacrum/crev-proofs"
+trust: high
+comment: Rust core team member
+-----BEGIN CREV TRUST SIGNATURE-----
+Esvu6ViFUEBIhChR_XC6Wk2EYzxsQLYkIwoZd_Ez0HdWirSEBsavi5H8Za_RnpODIRDwxKJYeoqy9PLKNwQvCw
+-----END CREV TRUST-----
+
